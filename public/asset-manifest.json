@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0ca8a3ea.chunk.css",
+    "main.js": "/static/js/main.a8b06625.chunk.js",
+    "main.js.map": "/static/js/main.a8b06625.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.1b112e9f.chunk.css": "/static/css/2.1b112e9f.chunk.css",
+    "static/js/2.6acc51d3.chunk.js": "/static/js/2.6acc51d3.chunk.js",
+    "static/js/2.6acc51d3.chunk.js.map": "/static/js/2.6acc51d3.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8772ffa6ace86ba963f722cc0b20f9b7.js": "/precache-manifest.8772ffa6ace86ba963f722cc0b20f9b7.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.1b112e9f.chunk.css.map": "/static/css/2.1b112e9f.chunk.css.map",
+    "static/css/main.0ca8a3ea.chunk.css.map": "/static/css/main.0ca8a3ea.chunk.css.map",
+    "static/media/style.css": "/static/media/duvshanitregularwebfont.9dc5d41c.eot",
+    "static/media/all.min.css": "/static/media/fa-solid-900.ff8d9f8a.ttf"
+  }
+}
